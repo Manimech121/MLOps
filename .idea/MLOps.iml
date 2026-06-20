@@ -4,7 +4,15 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
     </content>
+<<<<<<< HEAD
     <orderEntry type="jdk" jdkName="Python 3.14 (MLOps) (4)" jdkType="Python SDK" />
+=======
+<<<<<<< Updated upstream
+    <orderEntry type="jdk" jdkName="Python 3.14 (MLOps)" jdkType="Python SDK" />
+=======
+    <orderEntry type="jdk" jdkName="Python 3.14 (MLOps) (2)" jdkType="Python SDK" />
+>>>>>>> Stashed changes
+>>>>>>> bf071e06fc34974a5127b22e585df0dbd706432f
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
